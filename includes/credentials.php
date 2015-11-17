@@ -1,7 +1,7 @@
 <?php
 //credentials.php
 
-define('DB_NAME','rattana_admin');
-define('DB_USER','rattana_admin');
-define('DB_PASSWORD','sothearen20');
-define('DB_HOST','mysql.rattananeak.com');
+define('DB_NAME','example_admin');
+define('DB_USER','example_admin');
+define('DB_PASSWORD','xxxxxx');
+define('DB_HOST','example_host');
